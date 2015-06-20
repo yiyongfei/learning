@@ -10,6 +10,7 @@ import java.util.Set;
  */
 public interface ICacheCommands {
 
+
 	public Boolean add(String key, String value, int seconds) throws Exception;
 	
 	public Boolean set(String key, String value, int seconds) throws Exception;
