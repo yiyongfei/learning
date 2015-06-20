@@ -31,7 +31,7 @@ public class CacheDefinition {
 	static Map<String, String> mapProperty = new HashMap<String, String>();
 	
 	static{
-//静态资源		
+//静态资源
 		ClassPathResource resource = new ClassPathResource(CoreDefinition.getPropertyValue("cache.configure.file"));
 		try {
 			 Props p = new Props();

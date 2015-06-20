@@ -17,7 +17,11 @@ package com.ea.core.cache;
 
 public class CacheConstants {
 
-//缓存类型
+	/**
+	 * 缓存类型
+	 * @author yiyongfei
+	 *
+	 */
 	public enum CACHE_TYPE {
 		MEMCACHED("MEMCACHED", "MEMCACHED"),
 		REDIS("REDIS", "REDIS");

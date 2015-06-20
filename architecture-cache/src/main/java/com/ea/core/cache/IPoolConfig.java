@@ -7,6 +7,7 @@ package com.ea.core.cache;
  *
  */
 public interface IPoolConfig {
+	
 	//控制一个pool可分配多少个实例；
 	public void setMaxTotal(int maxTotal);
 	public int getMaxTotal();
