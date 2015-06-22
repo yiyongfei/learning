@@ -1,7 +1,7 @@
 package com.ea.core.cache;
 
 /**
- * 缓存池参数
+ * 缓存池参数。
  * 
  * @author yiyongfei
  *
