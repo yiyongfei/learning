@@ -18,7 +18,7 @@ package com.ea.core.cache;
 public class CacheConstants {
 
 	/**
-	 * 缓存类型
+	 * 缓存类型。
 	 * @author yiyongfei
 	 *
 	 */

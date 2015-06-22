@@ -30,7 +30,7 @@ import com.ea.core.kryo.impl.JavaSerializer;
 import com.ea.core.kryo.impl.ObjectSerializer;
 
 /**
- * 缓存上下文
+ * 缓存上下文。
  * 
  * @author yiyongfei
  *
