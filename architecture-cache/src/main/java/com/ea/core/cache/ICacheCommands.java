@@ -3,7 +3,7 @@ package com.ea.core.cache;
 import java.util.Set;
 
 /**
- * 缓存客户端命令的封装
+ * 缓存客户端命令的封装。
  * 
  * @author yiyongfei
  *
